@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/severluka/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 <a href="https://open.spotify.com/user/45v0codyos10vbiriauldd8f7?si=1e96e58479fc4ee5">
-  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/></a>
+  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/></a><br>
   
   <img src="https://komarev.com/ghpvc/?username=offblacc&style=flat-square&color=blue" alt="View count"/>
 
