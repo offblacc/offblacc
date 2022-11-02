@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img style="border-radius: 50%;" src="https://i.ibb.co/nbPnpPc/vekikornjaca-cool-cartoon-turtle-head-with-sunglasses-and-a-hat-e671b321-27fa-491f-a9cb-42c55222037a.png" width="100"/>
+  <img style="border-radius: 50%;" src="https://i.ibb.co/LkB9jFb/pfp-compressed.png" width="100"/>
 </div>
 
 <div id="badges">
