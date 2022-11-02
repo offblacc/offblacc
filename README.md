@@ -14,7 +14,7 @@
 </div>
 
 ### :man_technologist: About Me:
-I am a 3rd year student at the Faculty of Electrical Engineering and Computing in the University of Zagreb.
+I am a third year student at the Faculty of Electrical Engineering and Computing in the University of Zagreb.
 
 I've got most experience in using Java & Python. Even though that is mostly college-assigned work, I enjoy coding very much and strive to get better.
 
