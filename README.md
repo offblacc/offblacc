@@ -1,5 +1,5 @@
-<div id="header" align="center">
-  <img style="border-radius: 50%;" src="https://i.ibb.co/LkB9jFb/pfp-compressed.png" width="100"/>
+<div align="center">
+  <img style="border-radius: 50%;" src="raw/pfp.png" width="100"/>
 </div>
 
 <div id="badges" align="center"> 
@@ -16,7 +16,7 @@
 ### :man_technologist: About Me:
 I am a third year student at the Faculty of Electrical Engineering and Computing in the University of Zagreb.
 
-I've got most experience in using Java & Python.
+I've got most experience in using Java & Python. Currently exploring my interest in security.
 
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
