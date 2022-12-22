@@ -1,5 +1,5 @@
 <div align="center">
-  <img style="border-radius: 50%;" src="raw/pfp.png" width="100"/>
+  <img style="border-radius: 50%;" src="raw/pfp-min.png" width="100"/>
 </div>
 
 <div id="badges" align="center"> 
