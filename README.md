@@ -16,7 +16,7 @@
 ### :man_technologist: About Me:
 I am a third year student at the Faculty of Electrical Engineering and Computing in the University of Zagreb.
 
-I've got most experience in using Java & Python. Currently exploring my interest in security.
+I've got most experience in using Java & Python. Currently exploring my interest in security and networks.
 
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
