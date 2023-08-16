@@ -14,9 +14,9 @@
 </div>
 
 ### :man_technologist: About Me:
-I am a third year student at the Faculty of Electrical Engineering and Computing in the University of Zagreb.
+I am a fourth-year student at the Faculty of Electrical Engineering and Computing at the University of Zagreb, currently enrolled in the Master's degree program in Network Science.
 
-I've got most experience in using Java & Python. Currently exploring my interest in security and networks.
+I've got most experience in using Java & Python. Currently exploring my interest in computer networks.
 
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
