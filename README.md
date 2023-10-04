@@ -12,7 +12,7 @@
 </div>
 
 <div style="text-align: center;">
-  <h1>About Me</h1>
+  <center><h1>About Me</h1></center>
   <p>:man_technologist: I am a fourth-year student at the Faculty of Electrical Engineering and Computing at the University of Zagreb, currently enrolled in the Master's degree program in Network Science.</p>
   <p>I've got extensive experience in Java, Python, and Linux shell scripting. I'm currently exploring my interest in computer networks.</p>
   <p>And, as you can see in this readme, web design is not my passion.</p>
