@@ -8,9 +8,7 @@
 <a href="https://open.spotify.com/user/45v0codyos10vbiriauldd8f7?si=1e96e58479fc4ee5">
   <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/></a><br>
 
-  <h1>Hello
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+  <h1>Hello</h1>
 </div>
 
 ### :man_technologist: About Me:
