@@ -1,3 +1,9 @@
+<style>
+.anchorjs-link {
+  display: none !Important;
+} 
+</style>
+
 <div align="center">
   <img style="border-radius: 50%;" src="raw/pfp-min-circle.png" width="100"/>
 </div>
