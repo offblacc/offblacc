@@ -9,8 +9,6 @@
   <a href="https://open.spotify.com/user/45v0codyos10vbiriauldd8f7?si=1e96e58479fc4ee5">
     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
   </a><br>
-
-  <p style="font-size: 24px; font-weight: bold;">Hello!</p>
 </div>
 
 <div style="text-align: center;">
@@ -19,7 +17,7 @@
     I am a fourth-year student at the Faculty of Electrical Engineering and Computing at the University of Zagreb, currently enrolled in the Master's degree program in Network Science.
   </p>
   <p>
-    I've got most experience in using Java, Python and Linux shell scripting. Currently exploring my interest in computer networks.
+    I've got most experience in Java, Python and Linux shell scripting. Currently exploring my interest in computer networks.
   </p>
 </div>
 
