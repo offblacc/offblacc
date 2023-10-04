@@ -12,18 +12,14 @@
 </div>
 
 <div style="text-align: center;">
-  <p>:man_technologist: About Me:</p>
-  <p>
-    I am a fourth-year student at the Faculty of Electrical Engineering and Computing at the University of Zagreb, currently enrolled in the Master's degree program in Network Science.
-  </p>
-  <p>
-    I've got most experience in Java, Python and Linux shell scripting. Currently exploring my interest in computer networks.
-  </p>
-
-  <p>And, as you can see in this readme, web design is not my passion</p>
+  <h1>About Me</h1>
+  <p>:man_technologist: I am a fourth-year student at the Faculty of Electrical Engineering and Computing at the University of Zagreb, currently enrolled in the Master's degree program in Network Science.</p>
+  <p>I've got extensive experience in Java, Python, and Linux shell scripting. I'm currently exploring my interest in computer networks.</p>
+  <p>And, as you can see in this readme, web design is not my passion.</p>
 </div>
 
 <div align="center">
+  <h2>Skills</h2>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
@@ -36,6 +32,7 @@
 </div>
 
 <div align="center">
+  <h2>Tools</h2>
   <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
