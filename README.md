@@ -19,7 +19,7 @@
     I am a fourth-year student at the Faculty of Electrical Engineering and Computing at the University of Zagreb, currently enrolled in the Master's degree program in Network Science.
   </p>
   <p>
-    I've got most experience in using Java & Python. Currently exploring my interest in computer networks.
+    I've got most experience in using Java, Python and Linux shell scripting. Currently exploring my interest in computer networks.
   </p>
 </div>
 
