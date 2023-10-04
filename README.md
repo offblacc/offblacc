@@ -19,6 +19,8 @@
   <p>
     I've got most experience in Java, Python and Linux shell scripting. Currently exploring my interest in computer networks.
   </p>
+
+  <p>And, as you can see in this readme, web design is not my passion</p>
 </div>
 
 <div align="center">
